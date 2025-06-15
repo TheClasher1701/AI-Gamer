@@ -51,8 +51,8 @@ This project aims to develop an AI model that learns to play a **customized 2D g
 First, clone the repository using HTTPS:
 
 ```bash
-git clone https://github.com/PiyushGhegade/my-platformer-ai.git
-cd my-platformer-ai
+git clone https://github.com/TheClasher1701/AI-Gamer.git
+cd AI-Gamer
 ```
 
 ## Setup Instructions

@@ -1,0 +1,11 @@
+numpy==1.26.0
+pandas==2.2.3
+scipy==1.15.2
+matplotlib==3.10.1
+tensorflow==2.10.0
+torch==2.6.0
+gym==0.26.2
+stable_baselines3==2.6.0
+pygame==2.6.1
+shimmy>=2.0
+tensorboard==2.10.1
